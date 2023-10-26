@@ -1,5 +1,3 @@
-# CroReCov
-
 
 #Evaluation indicators analysis.pdf
 
